@@ -2,7 +2,8 @@
 
 This project demonstrates a method for detecting/segmenting ripe tomatoes using HSV (Hue, Saturation, Value) color space segmentation. The segmentation technique helps isolate tomatoes based on their color characteristics, specifically targeting ripe ones for optimal harvesting.
 
-[Watch the Video Demonstration](https://github.com/misabellerv/HSV_tomatoes_selection/raw/main/videos/output_video.mp4)
+![compare](https://github.com/misabellerv/HSV_tomatoes_selection/assets/88784791/24227f06-b087-4cd7-b7d8-2fadcfe93769)
+
 
 ## Project Overview
 
@@ -43,6 +44,9 @@ python HSV_plot.py
 ```bash
 python HSV_segmentation.py --video ${VIDEO_PATH}
 ```
+https://github.com/misabellerv/HSV_tomatoes_selection/assets/88784791/3a993bcb-2907-4e54-880f-da37ee89707b
+
+
 
 
    
