@@ -5,7 +5,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
 from matplotlib import colors
 
-tomatoes = cv.imread('images/tomatoes.png')
+tomatoes = cv.imread('../images/tomatoes.png')
 tomatoes = cv.cvtColor(tomatoes, cv.COLOR_BGR2RGB)
 
 r, g, b = cv.split(tomatoes)
